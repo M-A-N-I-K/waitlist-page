@@ -1,4 +1,4 @@
-import WaitlistForm from "./waitlistForm";
+import WaitlistForm from "./components/waitlistForm";
 
 export default function Home() {
 	return (

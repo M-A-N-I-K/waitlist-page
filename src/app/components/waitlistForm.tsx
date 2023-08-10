@@ -13,7 +13,7 @@ const WaitlistForm: React.FC = () => {
 	const open = () => setModalOpen(true);
 	const formVariants = {
 		hidden: { opacity: 0 },
-		visible: { opacity: 1, transition: { duration: 0.5 } },
+		visible: { opacity: 1, transition: { duration: 1 } },
 	};
 
 	const handleClick = () => {
